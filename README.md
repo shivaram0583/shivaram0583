@@ -21,9 +21,9 @@ I'm a passionate developer from India, focused on building clean and practical w
 
 Here are some of my projects:
 
-- 🔹 Project 1 – Short description  
-- 🔹 Project 2 – Short description  
-- 🔹 Project 3 – Short description  
+- 🔹 Inventory Management – Short description  
+- 🔹 Mortgage Loan Service – Short description  
+- 🔹 Java - system design, data structures and design patterns  
 
 *(Check my repositories for more)*
 
