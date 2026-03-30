@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @shivaram
-- 👀 I’m pretty much interested in software development and exploring new places...
-- 🌱 I’m currently learning bach-end spring boot...
-- ✨ Working as a back-end developer on java and spring boot technology... 
-- 📫 How to reach me dvvshivaram@gmail.com
+# Hi 👋, I'm Shivaram
 
-<!---
-shivaram0583/shivaram0583 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate Developer from India  
+💻 I love building web apps & learning new tech  
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=shivaram0583&show_icons=true)
+
+## 🔥 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivaram0583)
+
+## 🌐 Connect with me
+[LinkedIn](#) | [Portfolio](#)
